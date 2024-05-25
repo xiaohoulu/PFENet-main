@@ -10,7 +10,7 @@ if you have any questions about our paper, feel free to contact me. And if you a
 #### 2.1. Framework Overview
 ![PFENet](.\image\Network.jpg)
 #### 2.2. Qualitative Results
-![Qualitative Results](.\image\Fig6.jpg)
+![Qualitative Results](.\image\Fig6.png)
 ### 3. Proposed Baseline
 #### 3.1. Testing
 The testing experiments are conducted using PyTorch with a single GeForce RTX TITAN GPU of 24 GB Memory.
