@@ -8,7 +8,7 @@ This repository provides code for "Progressive Feature Enhancement Network for A
 if you have any questions about our paper, feel free to contact me. And if you are using PraNet or evaluation toolbox for your research, please cite this paper
 ### 2. Overview
 #### 2.1. Framework Overview
-![PFENet](.\image\Network.jpg)
+![PFENet](https://github.com/xiaohoulu/PFENet-main/blob/main/image/Fig6.png)
 #### 2.2. Qualitative Results
 ![Qualitative Results](.\image\Fig6.png)
 ### 3. Proposed Baseline
