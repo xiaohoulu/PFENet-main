@@ -3,7 +3,7 @@
 Authors: Guanghui Yue, Houlu Xiao
 
 ### 1. Preface
-This repository provides code for "Progressive Feature Enhancement Network for Automated Colorectal Polyp Segmentation" IEEE TASE-2024. ( [paper]:() ) 
+This repository provides code for "Progressive Feature Enhancement Network for Automated Colorectal Polyp Segmentation" IEEE TASE-2024.
 
 if you have any questions about our paper, feel free to contact me. And if you are using PraNet or evaluation toolbox for your research, please cite this paper
 ### 2. Overview
