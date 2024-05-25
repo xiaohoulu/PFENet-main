@@ -8,9 +8,9 @@ This repository provides code for "Progressive Feature Enhancement Network for A
 if you have any questions about our paper, feel free to contact me. And if you are using PraNet or evaluation toolbox for your research, please cite this paper
 ### 2. Overview
 #### 2.1. Framework Overview
-![PFENet](\image\Network.jpg)
+![PFENet](.\image\Network.jpg)
 #### 2.2. Qualitative Results
-![Qualitative Results](\image\Fig6.jpg)
+![Qualitative Results](.\image\Fig6.jpg)
 ### 3. Proposed Baseline
 #### 3.1. Testing
 The testing experiments are conducted using PyTorch with a single GeForce RTX TITAN GPU of 24 GB Memory.
